@@ -80,7 +80,7 @@ namespace FloralIDApp
                 myImage.Source = new BitmapImage(new Uri("Images/Orange_Daisy.jpg", UriKind.Relative));
                 wimage.Source = new BitmapImage(new Uri("Images/world_map.png", UriKind.Relative));
             }
-            else if (combo1.Text == "Yellowb") {
+            else if (combo1.Text == "Yellow") {
                 label1.Content = "The plant name is SunFlower";
                 myImage.Source = new BitmapImage(new Uri("Images/sunflower.jpg", UriKind.Relative));
                 wimage.Source = new BitmapImage(new Uri("Images/world_map.png", UriKind.Relative));
